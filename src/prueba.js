@@ -1,9 +1,8 @@
 console.log("Hola!");
 console.log("Hola!");
 console.log("Hola!");
-console.log("Hola!");
-console.log("Hola!");
-console.log("Hola!");
+alert("Holiss");
+//Paranga
 console.log("Hola!");
 console.log("Hola!");
 console.log("Hola!");
